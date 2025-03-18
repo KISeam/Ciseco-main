@@ -6,7 +6,7 @@ import { IoLogoMedium } from "react-icons/io5";
 const Header = () => {
   return (
     <div>
-      <div className="bg-gradient-to-r from-[#003366]  to-[#5A9BD5]">
+      <div className="bg-gradient-to-r from-[#003366]  to-[#5A9BD5] py-2">
         <div className="w-10/12 mx-auto">
           <div className="flex justify-between items-center py-1 text-white">
             <div className="flex gap-4">
