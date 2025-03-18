@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "name": "All",
+    "icon": "https://cdn-icons-png.freepik.com/256/5110/5110796.png?semt=ais_hybrid"
+  },
+  {
+    "id": 1,
+    "name": "Male",
+    "icon": "https://cdn-icons-png.freepik.com/256/4140/4140061.png?semt=ais_hybrid"
+  },
+  {
+    "id": 2,
+    "name": "Female",
+    "icon": "https://cdn-icons-png.freepik.com/256/8952/8952479.png?semt=ais_hybrid"
+  },
+  {
+    "id": 3,
+    "name": "Shirt",
+    "icon": "https://cdn-icons-png.freepik.com/256/7993/7993474.png?semt=ais_hybrid"
+  },
+  {
+    "id": 4,
+    "name": "Pant",
+    "icon": "https://cdn-icons-png.freepik.com/256/14456/14456172.png?semt=ais_hybrid"
+  },
+  {
+    "id": 5,
+    "name": "T-Shirt",
+    "icon": "https://cdn-icons-png.freepik.com/256/11669/11669941.png?semt=ais_hybrid"
+  }
+]

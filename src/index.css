@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Jost:ital,wght@0,100;1,100&family=Lexend+Deca:wght@100..900&family=Poppins&family=Raleway:wght@100&family=Roboto&display=swap");
+
+@import "tailwindcss";
+@plugin "daisyui";
+
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}

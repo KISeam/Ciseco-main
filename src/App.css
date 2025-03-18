@@ -1,0 +1,7 @@
+.cart_box {
+    display: none;
+}
+
+.cart_icon:hover .cart_box {
+  display: block;
+}

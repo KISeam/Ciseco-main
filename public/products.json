@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "title": "Men's Casual Shirt",
+        "image": "https://img.drz.lazcdn.com/static/bd/p/9f77101a4f01f772c64d882e0947209b.jpg_720x720q80.jpg_.webp",
+        "description": "Comfortable cotton casual shirt for men.",
+        "price": 29.99,
+        "category": "Shirt",
+        "productDisplayCategory": "Popular Product"
+    },
+    {
+        "id": 2,
+        "title": "Women's Summer T-Shirt",
+        "image": "https://img.freepik.com/premium-photo/oversized-tshirt-png-mockup-casual-unisex-apparel-design_53876-960591.jpg?ga=GA1.1.577768939.1742021453&semt=ais_hybrid",
+        "description": "Lightweight and stylish t-shirt for women.",
+        "price": 19.99,
+        "category": "T-Shirt",
+        "productDisplayCategory": "New Arrival"
+    },
+    {
+        "id": 3,
+        "title": "Men's Denim Jeans",
+        "image": "https://img.drz.lazcdn.com/static/bd/p/62ea5c6ce34b4d6ec116da0b2bbd0e4e.jpg_200x200q80.jpg_.webp",
+        "description": "Classic fit denim jeans for men.",
+        "price": 39.99,
+        "category": "Pant",
+        "productDisplayCategory": "New Arrival"
+    },
+    {
+        "id": 4,
+        "title": "Women's Formal Pant",
+        "image": "https://img.freepik.com/free-photo/hand-holding-light-brown-beige-pants_23-2150756278.jpg?ga=GA1.1.577768939.1742021453&semt=ais_hybrid",
+        "description": "Elegant formal pant for women.",
+        "price": 34.99,
+        "category": "Pant",
+        "productDisplayCategory": "Popular Product"
+    },
+    {
+        "id": 5,
+        "title": "Men's Leather Jacket",
+        "image": "https://img.freepik.com/free-photo/young-handsome-hipster-man-standing_285396-1515.jpg?ga=GA1.1.577768939.1742021453&semt=ais_hybrid",
+        "description": "Premium leather jacket for winter fashion.",
+        "price": 89.99,
+        "category": "Male",
+        "productDisplayCategory": "New Arrival"
+    },
+    {
+        "id": 6,
+        "title": "Women's Hooded Sweatshirt",
+        "image": "https://img.freepik.com/premium-photo/white-tshirt-png-sticker-design-space-transparent-background_53876-996367.jpg?ga=GA1.1.577768939.1742021453&semt=ais_hybrid",
+        "description": "Warm and stylish hoodie for casual wear.",
+        "price": 49.99,
+        "category": "Female",
+        "productDisplayCategory": "Offered Product"
+    },
+    {
+        "id": 7,
+        "title": "Men's Formal Shirt",
+        "image": "https://img.freepik.com/free-photo/man-suit_1303-5851.jpg?ga=GA1.1.577768939.1742021453&semt=ais_hybrid",
+        "description": "Slim-fit cotton formal shirt for office wear.",
+        "price": 24.99,
+        "category": "Shirt",
+        "productDisplayCategory": "Popular Product"
+    },
+    {
+        "id": 8,
+        "title": "Women's Casual T-Shirt",
+        "image": "https://img.freepik.com/premium-photo/blank-navy-t-shirt-clothes-isolated-white_59286-542.jpg?ga=GA1.1.577768939.1742021453&semt=ais_hybrid",
+        "description": "Soft cotton casual t-shirt for everyday wear.",
+        "price": 22.99,
+        "category": "T-Shirt",
+        "productDisplayCategory": "New Arrival"
+    },
+    {
+        "id": 9,
+        "title": "Men's Slim-Fit Chinos",
+        "image": "https://img.freepik.com/premium-photo/pair-blue-jeans-with-white-background_1324771-40.jpg?ga=GA1.1.577768939.1742021453&semt=ais_hybrid",
+        "description": "Comfortable and stylish slim-fit chinos for men.",
+        "price": 44.99,
+        "category": "Pant",
+        "productDisplayCategory": "Offered Product"
+    },
+    {
+        "id": 10,
+        "title": "Women's Skinny Jeans",
+        "image": "https://img.freepik.com/free-photo/hand-holding-light-brown-beige-pants_23-2150756278.jpg?ga=GA1.1.577768939.1742021453&semt=ais_hybrid",
+        "description": "Trendy skinny jeans for women with stretchable fabric.",
+        "price": 54.99,
+        "category": "Pant",
+        "productDisplayCategory": "Popular Product"
+    }
+]

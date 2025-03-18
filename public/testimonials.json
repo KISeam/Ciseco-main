@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Lazuli Luxe",
+    "image": "https://randomuser.me/api/portraits/men/1.jpg",
+    "text": "Great quality products, affordable prices, fast and friendly delivery. I very much recommend it.",
+    "rating": "★★★★★"
+  },
+  {
+    "id": 2,
+    "name": "Emma Stone",
+    "image": "https://randomuser.me/api/portraits/women/2.jpg",
+    "text": "Amazing customer service and quick responses. Will definitely shop here again!",
+    "rating": "★★★★☆"
+  },
+  {
+    "id": 3,
+    "name": "John Doe",
+    "image": "https://randomuser.me/api/portraits/men/3.jpg",
+    "text": "The products exceeded my expectations. Highly recommended!",
+    "rating": "★★★★★"
+  },
+  {
+    "id": 4,
+    "name": "Sophia Grace",
+    "image": "https://randomuser.me/api/portraits/women/4.jpg",
+    "text": "Fast shipping and excellent product quality. Very satisfied!",
+    "rating": "★★★★☆"
+  },
+  {
+    "id": 5,
+    "name": "Michael Scott",
+    "image": "https://randomuser.me/api/portraits/men/5.jpg",
+    "text": "I love the variety of products available. Great experience overall.",
+    "rating": "★★★★★"
+  }
+]
