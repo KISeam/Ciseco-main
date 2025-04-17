@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <div>
-        <MouseTracker />
+        {/* <MouseTracker /> */}
         <Header />
         <Home />
       </div>

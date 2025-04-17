@@ -76,7 +76,7 @@ const Navbar = ({ count, cartProduct }) => {
   return (
     <>
       <div
-        className={`bg-white shadow-lg sticky top-0 transition-transform duration-300 ${
+        className={`bg-white shadow-lg sticky top-0 transition-transform duration-300 z-50 ${
           isNavbarVisible ? "translate-y-0" : "-translate-y-full"
         }`}
       >
@@ -110,7 +110,7 @@ const Navbar = ({ count, cartProduct }) => {
                 </div>
               </label>
 
-              <div className="cart_box absolute -left-[380px] w-[400px] max-h-[500px] z-[300] bg-white shadow-lg rounded-md hidden overflow-y-scroll">
+              <div className="cart_box absolute -left-[380px] w-[400px] max-h-[500px] z-[300] px-4 bg-white shadow-lg rounded-md hidden overflow-y-scroll">
                 <ul className="list rounded-box shadow-md">
                   {cartProduct.map((cart) => {
                     const selectedProduct = selectedProducts.find(

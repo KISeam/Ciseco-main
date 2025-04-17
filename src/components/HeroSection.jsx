@@ -20,7 +20,6 @@ const HeroSection = () => {
   return (
     <div>
       <div className="carousel w-full h-[80vh] relative overflow-hidden">
-        {/* Slide 1 */}
         <div
           id="slide1"
           className={`carousel-item absolute top-0 left-0 w-full h-full transition-opacity duration-500 ${
